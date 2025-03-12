@@ -3,11 +3,6 @@
 
 ---
 
-## Hi there! 👋 I'm Ritika Rahi  
-🚀 **Aspiring Full-Stack Developer | Java & React Enthusiast**  
-
----
-
 ### 💡 About Me
 - 🌱 Currently learning **Java, React.js, HTML, CSS, JavaScript & Full-Stack Development**
 - 🔍 Exploring **real-world projects** to enhance my skills
