@@ -7,7 +7,9 @@
 - 🌱 Currently learning **Java, React.js, HTML, CSS, JavaScript & Full-Stack Development**
 - 🔍 Exploring **real-world projects** to enhance my skills
 - 💬 Looking for **mentors, developers & freelancers** to collaborate with
-- 🎯 Goal: **Build strong development skills & land a great IT job**
+- 👨‍💻 Open Source Contributor
+- 🌱 Future Software Engineer
+- 🔥 Goal: 2025 Big Company Placement
 
 ---
 
