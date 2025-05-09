@@ -8,7 +8,7 @@
 - 🔍 Exploring **real-world projects** to enhance my skills
 - 💬 Looking for **mentors, developers & freelancers** to collaborate with
 - 👨‍💻 Open Source Contributor
-- 🌱 Future Software Engineer
+-    Software Engineer
 - 🔥 Goal: 2025 Big Company Placement
 
 ---
